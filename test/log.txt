@@ -1,0 +1,5 @@
+for /home/captian/project/m3u_generator/test, not enough files to create an m3u
+for /home/captian/project/m3u_generator/test/Legend of Dragoon, .m3u created
+for /home/captian/project/m3u_generator/test/Sonic Game, .m3u created
+for /home/captian/project/m3u_generator/test/Unknown Game, cant determine discs
+for /home/captian/project/m3u_generator/test/Final Fantasy VII, .m3u created
